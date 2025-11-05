@@ -1,13 +1,8 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=nunito-sans&weight=900&size=40&color=000000&repeat=false&width=435&lines=Henrique+Horch)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=learning+in+progress...)](https://git.io/typing-svg)
-
-## 🎓 Estudante de Ciência da Computação
-
-**Atualmente no 2º semestre da faculdade** 💻
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=6000&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Henrique+Horch;Desenvolvedor+Java;Estudante;Ciência+da+Computação)
 
 </div>
 
@@ -15,13 +10,13 @@
 
 ## 💫 Sobre Mim
 
-> 💨 **Trabalho diariamente em projetos pessoais** afim de melhorar minha legibilidade de código e minha eficiência 💨  
-> 
-> ❗️ **Atualmente focado em JAVA** ❗️
+> 🎓 **Estudante de Ciência da Computação** - 2º Semestre  
+> 💻 **Desenvolvedor Java** em formação  
+> 🚀 **Focado em**: Backend & Clean Code
 
-- 🌍 **Porto Alegre/RS**
-- ✉️ **Fale comigo em:** [hhorchenrique@gmail.com](mailto:hhorchenrique@gmail.com) 📫
-- 🧠 **Atualmente focando em:** JAVA
+- 🌍 **Localização:** Porto Alegre/RS
+- ✉️ **Contato:** [hhorchenrique@gmail.com](mailto:hhorchenrique@gmail.com)
+- 🎯 **Objetivo:** Desenvolver soluções robustas com Java
 
 ---
 
@@ -42,7 +37,7 @@
   </a>
 </p>
 
----
+<!-- Restante do seu código permanece igual -->
 
 ## 📊 GitHub Analytics
 
@@ -92,6 +87,6 @@
 
 <div align="center">
   
-⭐️ **"Transformando código em soluções, um commit de cada vez!"** ⭐️
+⭐️ **"Realizando projetos pessoais diariamente"** ⭐️
 
 </div>
