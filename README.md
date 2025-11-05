@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=6000&pause=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Henrique+Horch;Desenvolvedor+Java;Estudante;Ciência+da+Computação)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=100&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Henrique+Horch;Desenvolvedor+Java;Estudante;Ciência+da+Computação)
 
 </div>
 
