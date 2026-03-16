@@ -10,13 +10,13 @@
 
 ## 💫 Sobre Mim
 
-> 🎓 **Estudante de Ciência da Computação** - 2º Semestre  
-> 💻 **Desenvolvedor Java** em formação  
+> 🎓 **Estudante de Ciência da Computação** - 3º Semestre  
+> 💻 **Desenvolvedor FullStack** em formação  
 > 🚀 **Focado em**: Backend & Clean Code
 
 - 🌍 **Localização:** Porto Alegre/RS
 - ✉️ **Contato:** [hhorchenrique@gmail.com](mailto:hhorchenrique@gmail.com)
-- 🎯 **Objetivo:** Desenvolver soluções robustas com Java
+- 🎯 **Objetivo:** Melhorar minhas habilidades em programacao
 
 ---
 
