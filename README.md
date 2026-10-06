@@ -1,10 +1,10 @@
 # Henrique Horch
 
-**Desenvolvedor full-stack com foco em back-end** · Porto Alegre, RS
+**Desenvolvedor full-stack com foco em back-end** | Porto Alegre, RS
 
-Estudante de Ciência da Computação na PUCRS (formatura em 2028) e integrante do PET Informática. Busco estágio em desenvolvimento de software.
+Estudo Ciência da Computação na PUCRS e me formo em 2028. Faço parte do PET Informática. Meu foco é back-end, mas também faço front: uso Java e Spring Boot de um lado, React e Next.js do outro. Busco estágio em desenvolvimento de software.
 
-[LinkedIn](https://www.linkedin.com/in/henrique-carlesso-pereira-horch-4a42b8378/) · [hhorchenrique@gmail.com](mailto:hhorchenrique@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/henrique-carlesso-pereira-horch-4a42b8378/) | [hhorchenrique@gmail.com](mailto:hhorchenrique@gmail.com)
 
 ## Tecnologias
 
@@ -19,12 +19,12 @@ Estudante de Ciência da Computação na PUCRS (formatura em 2028) e integrante 
 
 ### [Encurtador de links](https://github.com/HorcHenrique/encurtador-de-links)
 
-API REST que cria links curtos, redireciona para a URL original e conta os acessos.
+API REST que cria links curtos, redireciona para a URL original e conta os acessos. Fiz por conta própria, para praticar Spring Boot.
 
 - Java 21, Spring Boot, Spring Data JPA, PostgreSQL
 - Validação de entrada, tratamento de erros e documentação com Swagger
 
 ## Formação
 
-- Ciência da Computação, PUCRS (2025 – 2028)
-- PET Informática PUCRS, desde janeiro de 2026
+- Ciência da Computação, PUCRS (2025 a 2028)
+- PET Informática PUCRS, desde janeiro de 2026: projetos de impacto social e oficinas de computação
